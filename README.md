@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a fullstack web developer and Javascript enthusiast ✨
+I am Simphiwe, a fullstack web developer and Javascript enthusiast based in Cape Town ✨
 I love building meaningful web applications that me and my team can be proud of.
 
 - 🔭 I’m currently working for a big ecommerce company delivering automated web solutions
