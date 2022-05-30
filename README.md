@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-I am Simphiwe, a Web Developer and Javascript enthusiast based in Cape Town ✨
-I love building meaningful web applications that change people's lives.
+I am Simphiwe, a Fullstack Web Developer based in Cape Town, South Africa
+I love solving problems and building meaningful web applications that change people's lives.
 
-- 🔭 I’m currently working for a big ecommerce company delivering automated web solutions
-- 🌱 I’m currently learning to build Fullstack Applications using the MERN stack and Microservices 
+- 🔭 I work for a big ecommerce company delivering automated web solutions
+- 🌱 I build Fullstack Applications using React + Redux, graphQL and Node.
 - 👯 I’m looking to collaborate on any exciting projects
 - 💬 Ask me about anything web related
 - 📫 How to reach me: simphiwetebe@gmail.com
