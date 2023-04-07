@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 
-I am Simphiwe, a Fullstack Web Developer based in Cape Town, South Africa
-I love solving problems and building meaningful web applications that change people's lives.
+I'm Simphiwe, a Frontend Developer from South Africa.
+I love building meaningful web experiences and solving problems that change people's lives.
 
-- 🔭 I work for a big ecommerce company delivering automated web solutions
-- 🌱 I build Fullstack Applications using React + Redux, graphQL and Node.
-- 👯 I’m looking to collaborate on any exciting projects
-- 💬 Ask me about anything web related
-- 📫 How to reach me: simphiwetebe@gmail.com
+- 🔭 I currently work for a company in IOT space delivering automated web solutions
+- 🌱 My current tech stack is React + Redux, graphQL and Node.
+- 👯 I’m looking to collaborate and work on any exciting projects
+  
 
